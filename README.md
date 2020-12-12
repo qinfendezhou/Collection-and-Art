@@ -1,1 +1,2 @@
 # Collection-and-Art
+Collection and Art is an app that can help users to view and understand some artworks. The artwork presented in this app has a clear source. Users can contact merchants to purchase the artwork, or learn about the idea of making the artwork and the anecdotes in the birth process through the articles in the app.For more comments and suggestions, please contact us: "Collection and Art" official email: papableamyloyauz@hotmail.com
